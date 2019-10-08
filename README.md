@@ -1,14 +1,16 @@
 # 各类开发API接口
 
-==**1、微信公众号相关** #F44336==
-名称：***公众号资源对接***
-说明：用腾讯微信公众号对接网盘数据，在微信公众号输入搜索关键词就可以返回对应的网盘链接。
-详细介绍：[https://www.xiaocongjisuan.com/show/api/1](https://www.xiaocongjisuan.com/show/api/1)
+**1、微信公众号相关** 
+
+名称：***公众号资源对接***  
+说明：用腾讯微信公众号对接网盘数据，在微信公众号输入搜索关键词就可以返回对应的网盘链接。  
+详细介绍：[https://www.xiaocongjisuan.com/show/api/1](https://www.xiaocongjisuan.com/show/api/1)  
 
 **2、数据及分析**
-名称：***书籍信息查询***
-说明：根据书籍名称、作者、译者、出版社、isbn等查看书籍的价格、概述等信息
-详细介绍：[https://www.xiaocongjisuan.com/show/api/45](https://www.xiaocongjisuan.com/show/api/45)
+
+名称：***书籍信息查询***  
+说明：根据书籍名称、作者、译者、出版社、isbn等查看书籍的价格、概述等信息  
+详细介绍：[https://www.xiaocongjisuan.com/show/api/45](https://www.xiaocongjisuan.com/show/api/45)  
 
 名称：***电影信息查询***
 说明：根据电影名称、导演、演员、语言、剧情分类、描述等提取电影信息(不包括下载链接等侵权信息)
